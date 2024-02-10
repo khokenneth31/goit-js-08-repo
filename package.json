@@ -4,8 +4,8 @@
   "description": "",
   "homepage": "https://github.com/khokenneth31/goit-js-8-repo",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html --public-url /goit-js-8-repo/"
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /goit-js-8-repo/"
   },
   "repository": {
     "type": "git",
